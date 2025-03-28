@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuV1.unity
+    guid: 19934af23e6a225448115156d0c2c4b1
+  - enabled: 1
+    path: Assets/Scenes/MainMenuV2.unity
+    guid: 58e90a65ab6aadd458590c3beac6fbdb
+  - enabled: 1
+    path: Assets/Scenes/Cinematica.unity
+    guid: ba329f98f08f99a43b28ee8deb8ecda1
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa1.unity"
+    guid: 413c77f2c12dcc94390f0749505e27b7
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa2.unity"
+    guid: 69f6c2a00cdc22e40bdc4ebcefb81ccc
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa4.unity"
+    guid: 2938885960eab3f43ab89b6a8e249dff
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa3Malo.unity"
+    guid: 63da2a92a8e508e42951a1ddefd123bf
+  - enabled: 1
+    path: Assets/Scenes/MainMenuV2Final.unity
+    guid: e21b4c6438df6004eb0fc53a0751bd79
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa3Bueno.unity"
+    guid: 512b85def83e9d141bc2068cbe050b32
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa5.unity"
+    guid: 296a16e2cf3261f45bc07f5414582d92
+  - enabled: 1
+    path: "Assets/Scenes/D\xEDa6.unity"
+    guid: 83ba9ed123d8516489954680641debe7
+  - enabled: 1
+    path: Assets/Scenes/Ending1.unity
+    guid: 381c7aac2c0161e489b1c1abb54560ff
+  - enabled: 1
+    path: Assets/Scenes/Ending2.unity
+    guid: a216423ec399f524aa1a9c7f0f72b140
+  - enabled: 1
+    path: Assets/Scenes/Ending3.unity
+    guid: 8db24d686ca162a449bd41093cf684c2
+  - enabled: 1
+    path: Assets/Scenes/Dia 1 Limpiar.unity
+    guid: 1441cfc941e19fc43a7dee387fccca27
+  - enabled: 1
+    path: Assets/Scenes/Dia 2 Limpiar.unity
+    guid: aac2688c72e4d6344b6b2a3db3ce5cc0
+  - enabled: 1
+    path: Assets/Scenes/Dia 4 Limpiar.unity
+    guid: 2407f885597798e4a8caeff412778445
+  m_configObjects: {}
