@@ -5,4 +5,4 @@ Es un simulador de hacer algodones de azucar hecho en Unity 3D, tomas el papel d
 
 
 
-![Descripción](https://imgur.com/a/0PznRQ1)
+![Descripción](Cotton Candy Clowns_Poster (1).png)
